@@ -12,13 +12,13 @@
 <!-- Social Links -->
 <p align="center">
   <a href="https://holopin.io/@ankit">
-    <img src="https://img.shields.io/badge/holopin-%40ambar-ff69b4">
+    <img src="https://img.shields.io/badge/holopin-%40ankit-ff69b4">
   </a>
   <a href="https://twitter.com/ankitkr2411">
-    <img src="https://img.shields.io/badge/twitter-_%40ambar__kansal-blue">
+    <img src="https://img.shields.io/badge/twitter-_%40ankit-blue">
   </a>
   <a href="https://www.linkedin.com/in/ankitkr2411l/">
-    <img src="https://img.shields.io/badge/linkedin-ambar--kansal-blue">
+    <img src="https://img.shields.io/badge/linkedin-@ankit-blue">
   </a>
 </p>
 
