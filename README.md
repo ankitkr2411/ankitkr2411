@@ -47,15 +47,15 @@
 
 <!-- Project 1: MERN E-Commerce Website -->
 <p align="center">
-  <a href="https://github.com/ankitkr2411/mern-e-commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkr2411&repo=mern-e-commerce&theme=dark" alt="MERN E-Commerce Website">
+  <a href="https://github.com/ankitkr2411/MernProjectDT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkr2411&repo=MernProjectDT&theme=dark" alt="MERN E-Commerce Website">
   </a>
 </p>
 
 <!-- Project 2: Appointment Booking Java Application -->
 <p align="center">
-  <a href="https://github.com/ankitkr2411/appointment-booking-java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkr2411&repo=appointment-booking-java&theme=dark" alt="Appointment Booking Java Application">
+  <a href="https://github.com/ankitkr2411/Appointment-Booking-Java-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkr2411&repo=Appointment-Booking-Java-Application&theme=dark" alt="Appointment Booking Java Application">
   </a>
 </p>
 
@@ -64,7 +64,7 @@
   <samp>
     <h2>Contact Me</h2>
     📫 Feel free to reach out:<br>
-    <a href="mailto:ankitkr2411@email.com">ankitkr2411@email.com</a><br>
+    <a href="mailto:ankitkr2411@gmail.com">ankitkr2411@email.com</a><br>
     <a href="https://twitter.com/ankitkr2411">Twitter</a> | <a href="https://www.linkedin.com/in/ankitkr2411/">LinkedIn</a>
   </samp>
 </p>
