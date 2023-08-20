@@ -64,7 +64,7 @@
   <samp>
     <h2>Contact Me</h2>
     📫 Feel free to reach out:<br>
-    <a href="mailto:ankitkr2411@gmail.com">ankitkr2411@email.com</a><br>
+    <a href="mailto:ankitkr2411@gmail.com">ankitkr2411@gmail.com</a><br>
     <a href="https://twitter.com/ankitkr2411">Twitter</a> | <a href="https://www.linkedin.com/in/ankitkr2411/">LinkedIn</a>
   </samp>
 </p>
